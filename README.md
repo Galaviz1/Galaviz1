@@ -4,6 +4,10 @@
 **Galaviz1/Galaviz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
+<h1 align="center">Hi 👋, I'm Alejandro </h1>
+<h3 align="center">An enthusiastic electronic engineer</h3>
 <h3 align="center">- 🔭 I’m currently working on ...</h3>
 <h3 align="center">- 🌱 I’m currently learning ...</h3> 
 <h3 align="center">- 👯 I’m looking to collaborate on ...</h3>
@@ -12,11 +16,6 @@ Here are some ideas to get you started:
 <h3 align="center">- 📫 How to reach me: ...</h3>
 <h3 align="center">- 😄 Pronouns: ...</h3>
 <h3 align="center">- ⚡ Fun fact: ...</h3>
--->
-
-<h1 align="center">Hi 👋, I'm Alejandro </h1>
-<h3 align="center">An enthusiastic electronic engineer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaviz1&label=Profile%20views&color=0e75b6&style=flat" alt="galaviz1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galaviz1" alt="galaviz1" /></a> </p>
