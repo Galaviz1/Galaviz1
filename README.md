@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+<h1 align="center">Hi 👋, I'm Alejandro </h1>
+<h3 align="center">An enthusiastic electronic engineer</h3>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Alejandro </h1>
-<h3 align="center">An enthusiastic electronic engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaviz1&label=Profile%20views&color=0e75b6&style=flat" alt="galaviz1" /> </p>
 
