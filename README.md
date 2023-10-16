@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align="center">Hi 👋, I'm Alejandro </h1>
-<h3 align="center">An enthusiastic electronic engineer</h3>
-<h3 align="center">- 🔭 I’m currently working on ...</h3>
-<h3 align="center">- 🌱 I’m currently learning ...</h3> 
-<h3 align="center">- 👯 I’m looking to collaborate on ...</h3>
-<h3 align="center">- 🤔 I’m looking for help with ...</h3>
-<h3 align="center">- 💬 Ask me about ...</h3>
-<h3 align="center">- 📫 How to reach me: ...</h3>
-<h3 align="center">- 😄 Pronouns: ...</h3>
+<h1 align="left">Hi 👋, I'm Alejandro </h1>
+<h3 align="left">An enthusiastic electronic engineer</h3>
+<h3 align="left">- 🔭 I’m currently working on ...</h3>
+<h3 align="left">- 🌱 I’m currently learning ...</h3> 
+<h3 align="left">- 👯 I’m looking to collaborate on ...</h3>
+<h3 align="left">- 🤔 I’m looking for help with ...</h3>
+<h3 align="left">- 💬 Ask me about ...</h3>
+<h3 align="left">- 📫 How to reach me: ...</h3>
+<!-- <h3 align="center">- 😄 Pronouns: ...</h3> -->
 <h3 align="center">- ⚡ Fun fact: ...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaviz1&label=Profile%20views&color=0e75b6&style=flat" alt="galaviz1" /> </p>
 
