@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Alejandro Galaviz</h1>
+<h1 align="center">Hi 👋, I'm Alejandro </h1>
 <h3 align="center">An enthusiastic electronic engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galaviz1&label=Profile%20views&color=0e75b6&style=flat" alt="galaviz1" /> </p>
