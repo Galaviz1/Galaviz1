@@ -17,7 +17,7 @@
 
 ### What I work on
 
-Hardware and DSP, in equal measure. Most of my repos sit somewhere on the
+Digital Hardware and DSP, in equal measure. Most of my repos sit somewhere on the
 path from an antenna to a register-transfer-level description:
 cardinal-cubic-spline pre-distortion for power amplifiers, LTE signal
 analysis (ACPR, PAPR, PSD), Verilog and VHDL labs targeting Intel/Altera
